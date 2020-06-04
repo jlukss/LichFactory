@@ -1,7 +1,7 @@
-name: Chrome Wraith Factory
-description: Makes Chrome Wraith units.
+name: Lich Factory
+description: Makes Lich units.
 type: UnitFactory
-unitType: chrome-wraith
+unitType: lich
 size: 2
 produceTime: 350
 consumes: {

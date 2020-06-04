@@ -1,5 +1,5 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+# LichFactoryMod
+An simple lich factory mod.
 
 ## Importing
 
